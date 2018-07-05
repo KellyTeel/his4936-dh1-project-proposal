@@ -6,7 +6,7 @@
 
 ---
 
-![something](imgs/ACT_UP.jpg)
+![Rolling  Stone](imgs/ACT_UP.jpg)
 
 REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
 IF YOU LIKE.
