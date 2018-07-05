@@ -1,4 +1,4 @@
-# PUT YOUR PROPOSAL TITLE HERE
+# LGBT Oral Histories
 
 ---
 
